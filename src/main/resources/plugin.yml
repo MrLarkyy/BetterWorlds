@@ -1,0 +1,9 @@
+name: BetterWorlds
+version: 1.0.0
+main: gg.aquatic.betterworlds.BetterWorlds
+api-version: 1.21
+description: A plugin for serializing and deserializing Minecraft chunks using MessagePack
+author: Aquatic
+
+depend:
+  - Waves
