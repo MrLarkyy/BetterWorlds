@@ -24,7 +24,7 @@ dependencies {
 
     // MessagePack for efficient serialization
     implementation("org.msgpack:msgpack-core:0.9.8")
-    implementation("org.msgpack:jackson-dataformat-msgpack:0.9.8")
+    implementation("org.msgpack:jackson-dataformat-msgpack:0.9.11")
 }
 
 kotlin {
