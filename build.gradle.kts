@@ -4,7 +4,7 @@ import com.github.jengelman.gradle.plugins.shadow.tasks.ShadowJar
 plugins {
     kotlin("jvm") version "2.1.20"
     id("com.undefinedcreations.echo") version "0.0.11"
-    id("com.gradleup.shadow") version "9.0.0-beta11"
+    id("com.gradleup.shadow") version "9.3.1"
 }
 
 group = "gg.aquatic.betterworlds"
