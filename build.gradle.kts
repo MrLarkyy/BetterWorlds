@@ -2,7 +2,7 @@ import com.github.jengelman.gradle.plugins.shadow.ShadowJavaPlugin.Companion.sha
 import com.github.jengelman.gradle.plugins.shadow.tasks.ShadowJar
 
 plugins {
-    kotlin("jvm") version "2.1.20"
+    kotlin("jvm") version "2.3.10"
     id("com.undefinedcreations.echo") version "0.0.11"
     id("com.gradleup.shadow") version "9.0.0-beta11"
 }
